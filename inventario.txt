@@ -1,0 +1,6 @@
+01; 1001; Teclado; 05;
+01; 1002; Mouse; 07;
+02; 2001; Windows10; 12;
+01; 1003; Parlantes; 08;
+02; 2002; NordVPN; 10;
+02; 2003; Windows11; 08;
